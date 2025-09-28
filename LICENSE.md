@@ -4,7 +4,7 @@ Copyright (c) 2023 Your Organization Name
 
 Erlaubt wird, kostenlos zu verwenden, zu kopieren, zu ändern, zu zusammenzuführen, zu veröffentlichen, zu vertreiben, zu unterlizenzieren und/oder zu verkaufen von Kopien der Software und Personen, denen die Software bereitgestellt wird, es unter den folgenden Bedingungen:
 
-1. Der obige Urheberrechtshinweis und dieser Erlaubnis Hinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
+1. Der obige Urheberrechtshinweis und dieser Erlaubnishinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
 
 2. Die Software darf nicht ohne Genehmigung des Urhebers verwendet oder verbreitet werden.
 
