@@ -4,6 +4,10 @@ Copyright (c) 2023 Ihr Name
 
 Erlaubt wird, kostenlos zu verwenden, zu kopieren, zu ändern, zu zusammenzuführen, zu veröffentlichen, zu vertreiben, zu unterlizenzieren und/oder zu verkaufen von Kopien der Software und Personen, denen die Software bereitgestellt wird, es unter den folgenden Bedingungen:
 
+1. Der obige Urheberrechtshinweis und dieser Erlaubungshinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
+
+2. Die Software darf nicht ohne Genehmigung des Urhebers verwendet werden.
+
 ... [Fügen Sie den vollständigen Inhalt der MIT-Lizenz hinzu] ...
 
 Das obige Urheberrecht und diese Genehmigungserklärung sind in allen Kopien oder wesentlichen Teilen der Software beizufügen.
