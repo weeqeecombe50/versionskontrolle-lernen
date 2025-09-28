@@ -28,3 +28,6 @@ Vielen Dank, dass Sie sich für eine Mitwirkung an "Versionskontrolle Lernen" in
 - Dokumentieren Sie Ihre Änderungen.
 
 Vielen Dank für Ihre Unterstützung!
+
+## Wichtiger Hinweis
+Bitte beachten Sie, dass wir erwarten, dass alle Beiträge getestet und dokumentiert sind, um die Qualität und Wartbarkeit des Projekts zu gewährleisten.
