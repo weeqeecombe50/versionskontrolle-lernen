@@ -20,7 +20,7 @@ Vielen Dank, dass Sie sich für eine Mitwirkung an "Versionskontrolle Lernen" in
    ```bash
    git push origin mein-neuer-branch
    ```
-6. Öffnen Sie einen Pull-Request.
+6. Öffnen Sie einen Pull-Request, um Ihre Änderungen vorzuschlagen.
 
 ## Richtlinien
 - Bitte halten Sie sich an die vorhandenen Code-Stile.
