@@ -1,6 +1,6 @@
 # Mitwirken
 
-Vielen Dank, dass Sie sich für eine Mitwirkung an "Versionskontrolle Lernen" interessieren! Wir freuen uns über Beiträge in vielerlei Form, sei es durch Code, Dokumentation oder Feedback.
+Vielen Dank, dass Sie sich für eine Mitwirkung an "Versionskontrolle Lernen" interessieren! Wir freuen uns über Beiträge in vielerlei Form, seien es Code, Dokumentation oder Feedback.
 
 ## Wie man mitmacht
 1. Forken Sie das Repository.
@@ -23,7 +23,7 @@ Vielen Dank, dass Sie sich für eine Mitwirkung an "Versionskontrolle Lernen" in
 6. Öffnen Sie einen Pull-Request.
 
 ## Richtlinien
-- Bitte halten Sie sich an die bestehenden Code-Stile.
+- Bitte halten Sie sich an die vorhandenen Code-Stile.
 - Fügen Sie Tests für neue Funktionen hinzu.
 - Dokumentieren Sie Ihre Änderungen.
 
