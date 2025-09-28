@@ -33,4 +33,4 @@ Vielen Dank für Ihre Unterstützung!
 Bitte beachten Sie, dass wir erwarten, dass alle Beiträge getestet und dokumentiert sind, um die Qualität und Wartbarkeit des Projekts zu gewährleisten.
 
 ## Kontakt
-Für Fragen oder Unterstützung können Sie uns jederzeit kontaktieren.
+Für Fragen oder Unterstützung können Sie uns jederzeit unter kontakt@versionskontrolle-lernen.de kontaktieren.
