@@ -2,7 +2,7 @@ MIT License
 
 Copyright (c) 2023 Your Organization Name
 
-Erlaubt wird, kostenlos zu verwenden, zu kopieren, zu ändern, zu zusammenzuführen, zu veröffentlichen, zu vertreiben, zu unterlizenzieren und/oder zu verkaufen von Kopien der Software und Personen, denen die Software bereitgestellt wird, es unter den folgenden Bedingungen:
+Erlaubt wird, kostenlos zu verwenden, zu kopieren, zu ändern, zusammenzuführen, zu veröffentlichen, zu vertreiben, unterzulizenzieren und/oder Kopien der Software zu verkaufen sowie Personen, denen die Software bereitgestellt wird, unter den folgenden Bedingungen:
 
 1. Der obige Urheberrechtshinweis und dieser Erlaubnishinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
 
