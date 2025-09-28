@@ -12,7 +12,7 @@ Vielen Dank, dass Sie sich für eine Mitwirkung an "Versionskontrolle Lernen" in
    ```bash
    git add .
    ```
-4. Kommittieren Sie Ihre Änderungen:
+4. Kommittieren Sie Ihre Änderungen mit einer präzisen Beschreibung:
    ```bash
    git commit -m "Beschreibung meiner Änderungen"
    ```
