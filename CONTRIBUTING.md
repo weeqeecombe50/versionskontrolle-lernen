@@ -24,7 +24,7 @@ Vielen Dank, dass Sie sich für eine Mitwirkung an "Versionskontrolle Lernen" in
 
 ## Richtlinien
 - Bitte halten Sie sich an die vorhandenen Code-Stile.
-- Fügen Sie Tests für neue Funktionen hinzu.
+- Fügen Sie Tests für neue Funktionen hinzu und stellen Sie sicher, dass alle bestehenden Tests bestehen.
 - Dokumentieren Sie Ihre Änderungen.
 
 Vielen Dank für Ihre Unterstützung!
