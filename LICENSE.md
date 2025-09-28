@@ -6,7 +6,7 @@ Erlaubt wird, kostenlos zu verwenden, zu kopieren, zu ändern, zu zusammenzufüh
 
 1. Der obige Urheberrechtshinweis und dieser Erlaubnis Hinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
 
-2. Die Software darf nicht ohne Genehmigung des Urhebers verwendet oder verbreitet werden.  
+2. Die Software darf nicht ohne Genehmigung des Urhebers verwendet oder verbreitet werden.
 
 3. Der Lizenztext muss in allen Kopien oder wesentlichen Teilen der Software beigefügt werden.
 
